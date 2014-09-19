@@ -6,15 +6,15 @@ Homework to create a ecommerce in command line interface using Nodejs
 
 Before anything, you need to have [node](http://nodejs.org/) and [npm](https://www.npmjs.org/) installed.
 
-    ```sh
-    $ npm install
-    ```
+```sh
+$ npm install
+```
 
 Then execute bin:
 
-    ```sh
-    $ node bin/ecommerce.js
-    ```
+```sh
+$ node bin/ecommerce.js
+```
 
 ## About
 
