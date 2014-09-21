@@ -1,23 +1,20 @@
 {
-  "name": "CLI-e-commerce",
+  "name": "node-design-patterns",
   "version": "0.1.0",
-  "description": "Homework to create a ecommerce in command line interface using Nodejs",
-  "main": "bin/ecommerce.js",
-  "bin": {
-    "CLI-e-commerce": "ecommerce.js"
-  },
+  "description": "Example of a use some design patterns in nodejs console application",
+  "main": "bin/app.js",
   "dependencies": {
     "grunt-contrib-jshint": "^0.10.0",
     "grunt": "^0.4.5"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node bin/ecommerce.js",
+    "start": "node bin/app.js",
     "test": "npm test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/raphamorim/CLI-e-commerce.git"
+    "url": "https://github.com/raphamorim/node-design-patterns"
   },
   "keywords": [
     "cli"
@@ -25,7 +22,7 @@
   "author": "Raphael Amorim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raphamorim/CLI-e-commerce/issues"
+    "url": "https://github.com/raphamorim/node-design-patterns/issues"
   },
-  "homepage": "https://github.com/raphamorim/CLI-e-commerce"
+  "homepage": "https://github.com/raphamorim/node-design-patterns"
 }

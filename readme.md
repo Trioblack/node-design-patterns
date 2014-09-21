@@ -1,6 +1,6 @@
-# CLI-e-commerce
+# node design patterns
 
-Homework to create a ecommerce in command line interface using Nodejs
+Example of a use some design patterns in nodejs console application
 
 ## Run Locally
 
@@ -13,8 +13,12 @@ $ npm install
 Then execute bin:
 
 ```sh
-$ node bin/ecommerce.js
+$ npm start
 ```
+
+## The Patterns
+
+Wait..for..it.
 
 ## About
 
