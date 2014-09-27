@@ -18,6 +18,8 @@ $ npm start
 
 ## The Patterns
 
+Singleton, Prototype and Command
+
 Wait..for..it.
 
 ## About
